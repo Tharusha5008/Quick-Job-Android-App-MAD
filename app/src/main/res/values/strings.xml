@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quick Job</string>
+    <string name="app_name"></string>
     <string name="Title_aj">Title : </string>
     <string name="name_aj">Name : </string>
     <string name="age_aj">Age : </string>
